@@ -1,0 +1,7 @@
+main
+.env
+.env.staging
+.env.testing
+.idea
+docs
+serviceAccountKey.json
